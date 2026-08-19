@@ -1,0 +1,6 @@
+# PRODIGY_GA_03: Text Generation using Markov Chains
+# Prodigy InfoTech - Generative AI Internship (Task-03)
+#
+# This project uses Python's standard library for maximum portability,
+# zero external bloat, and clean educational clarity.
+# Compatible with Python 3.8+

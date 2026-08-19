@@ -1,0 +1,80 @@
+===============================================================================
+PRODIGY_GA_03: CHARACTER-LEVEL MARKOV CHAIN TEXT GENERATOR - VERIFIED RUNS
+Organization : Prodigy InfoTech | Track: Generative AI | Task: Task-03
+===============================================================================
+
+--- 1. MODEL CONFIGURATION & CORPUS STATISTICS ---
+  Order                    : 4
+  Unique States            : 3681
+  Unique Characters        : 51
+  Total Transitions        : 8784
+  Avg Branching Factor     : 2.39
+  Start States Count       : 59
+
+--- 2. EFFECT OF MARKOV ORDER (k = 1, 2, 3, 4, 5) ---
+(Seed: 'Artificial', Length: 300, Random Seed: 42)
+
+[ORDER 1] (States: 51, Transitions: 8787, Avg Branching: 172.29)
+Artificialull ar, by el rata itocequmadit csista. al on tere s ng t teg cadinte supranse se cthekentioveliquetiorataligldes gherat c cinttrvelds magonis wingon Oves simatiofrks r ttandatinestos petenes scod ixpipl manteind boystinfougers. Ar catiberang ncathmpricoh-l suplinaramele ry tis Thernizicof
+
+[ORDER 2] (States: 474, Transitions: 8786, Avg Branching: 18.54)
+Artificiallincipatifiencludenciplectionsupe arkov macy ing derspithatit oneuraccument landeram tatifies thognmecture oftworphrom te froblysints. In synt, andings, and of al aduch trucce state vocer statistrucins.
+
+In off witough tatencluseer is trateratures witylice lecoundist-of ton ingual sof knon
+
+[ORDER 3] (States: 1908, Transitions: 8785, Avg Branching: 4.6)
+Artificial inter-level Markov moderstatistimative represearning computative memorphemarkov charammate langes socient of gencing balanguagent counts conterative sequence and reature.
+
+Reinfor under system capturalized tributility discover, espite "artifield of textent syncrasets. In game Markov deep 
+
+[ORDER 4] (States: 3681, Transitions: 8784, Avg Branching: 2.39)
+Artificial interdiscrete sequence model memory. A first-order to another to drastic models to simulating to verbatim representime.
+
+Generalize deep neural networks, long set rathemation of uncharaction, quantifies from digital communicates that can gain is a sing passages of chanisms to generategies
+
+[ORDER 5] (States: 4954, Transitions: 8783, Avg Branching: 1.77)
+Artificial interdisciplinary scientifies the characteristic of a tokens regardless of character-level understanding algorithm iterative amount of misinforcement to simulation, and optimize a loss functionships between token selects that followed "articular, it seeks to captures without human brain, 
+
+--- 3. GENERATION WITH DIFFERENT SEED PROMPTS (Order 4, Temp 0.8) ---
+
+[Prompt: 'Machine learning']
+Machine learning the human vision of informer model is and memory possible of n items from the vocabular, it seeks the potents of machine learning algorithms from the labels. Common the use of the models to progressing, perplexity distributional distanding generation of chanisms 
+
+[Prompt: 'Deep learning']
+Deep learning the human vision of informer model is and memory possible of n items from the vocabular, it seeks the potents of machine learning algorithms from the labels. Common the use of the models to progressing, perplexity distributional distanding generation of chanisms the
+
+[Prompt: 'Generative artificial']
+Generative artificial implication. In patterns.
+
+In the machine transition, the perplexity distribution, and alignment systems. This principle of theoretical computer sequence language probabilistical pillars including contropy and intelligences creation supervised transform. Com
+
+[Prompt: 'Natural language']
+Natural language model processes in unlabels. The amount character states that mirror, balancing the fielding based methods, yield have trading probabilistic pseudo-words of n items from that the trained on how well a provides transition of communication of n iterative model capt
+
+[Prompt: 'Ethics in artificial']
+Ethics in artificial implication. In patterns.
+
+In the machine transition, the perplexity distribution, and alignment systems. This principle of theoretical computer sequence language probabilistical pillars including contropy and intelligences creation supervised transform. Comp
+
+--- 4. TEMPERATURE SCALING COMPARISON (Order 4, Seed 'Generative AI') ---
+
+[Temperature T = 0.5]:
+Generative AI models to models to events of n items. Key ethical system capture transitions in unlabels. The amount of natures with the empirical order balance artificial intelligence artificial intelligence of unders to probability discrete state no
+
+[Temperature T = 0.8]:
+Generative AI model predictive artificial to verbatim represent intervals, defines, transformances, transition. Generative models the joint phrases from the joint problem-solving, automate how computers to captures with the ascendancy between data fr
+
+[Temperature T = 1.0]:
+Generative AI model predictive media. Reinformance. Despite state to evaluates with reproduce numerical frameters may learning is the joint phrases a transition, speech recognitions within the human learning supervised learning from theory positionsh
+
+[Temperature T = 1.4]:
+Generative AI model predictive media. Reinformance. Despite state to evaluates with reproduce numerical featural nuance is a subset rathemations an intervals, have trained on how well a trading chain additionships between moves stations. From trainin
+
+--- 5. EDGE CASE & FALLBACK DEMONSTRATION ---
+
+[Unseen Seed Prompt: 'QuantumRoboticsX99'] (Graceful Fallback):
+QuantumRoboticsX99 From that the progresses on data distanding is less and transition of words. Higher-orderstances creative synthetical network for understance. Despite timensitions, and probability distribution of a distribution of words. Higher-or
+
+===============================================================================
+END OF VERIFIED SAMPLE OUTPUTS
+===============================================================================
